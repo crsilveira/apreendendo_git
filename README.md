@@ -7,3 +7,4 @@ linha 5 no branch 2
 linha 6 no b 2
 commit 1 b 3
 commit 2 b 3
+commit 3 b 3
